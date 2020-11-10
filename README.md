@@ -1,8 +1,8 @@
-Для начала установить все необходимые библиотеки
-pip install -r requirements.txt
+####Для начала установить все необходимые библиотеки
+_pip install -r requirements.txt_
 
-Для запуска тестов 
-pytest test.py --verbose --capture=no
+#####Для запуска тестов 
+_pytest test.py --verbose --capture=no_
 
-Обновить в случае ошибки ChromeDriver
-https://chromedriver.chromium.org/
+#####Обновить в случае ошибки ChromeDriver
+_https://chromedriver.chromium.org/_
